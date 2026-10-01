@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # 🎓 DebateTutor Frontend
 
 > **Multi-Agent Deliberative AI Educational Platform**  
